@@ -83,6 +83,8 @@ Only **Bidirectional GRU** and **Bidirectional LSTM** were retrained, as they ha
 Confusion matrix fro ensemble model:
 ![confusionmatrix](docs/tweet_ss_03.png)
 
+![classificationreport](docs/tweet_ss_04.png)
+
 
 
 
